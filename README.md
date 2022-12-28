@@ -1,7 +1,5 @@
 # My Quiz App
 
-## This is a demo quiz application. See the [Demo](https://drive.google.com/file/d/1vsC8QqEua1empH1lyYCdzdxi2q69OQ7c/view)
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
